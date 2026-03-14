@@ -12,7 +12,7 @@ Sou estudante do 2º período de **Ciência da Computação** em Maceió-AL, apa
 
 * 🎓 Foco atual: **Desenvolvimento Back-end** e **Segurança da Informação (AppSec)**.
 * 🏆 **Conquista Recente:** Avancei para a **2ª Fase (Estadual) da OBI 2025** (Olimpíada Brasileira de Informática).
-* 📚 Aprendizado: Sou autodidata, aprendo lendo documentação e aplicando em projetos práticos.
+* 📚 Aprendizado: Amo aprender e adquirir conhecimento, costumo aprender lendo documentação e aplicando em projetos práticos.
 * ⚡ Hobbies: Eletrônica (Latch SR, Circuitos), Games e Análise de Hardware.
 
 ---
